@@ -23,4 +23,4 @@ Developed to provide both operational depot management and structured financial 
 
 Developed in October 2025 as a university project, tailored to meet the practical requirements of my father's company.
 
-Although the project is functionally complete, I plan to refine some aspects of the database usage before publishing it on GitHub. The full documentation is already available for review.
+🧯 I should mention that the code is written... quite poorly. But it works. The project was completed for university under very tight time constraints, and it didn’t make sense to go back and refactor the code. In any case, the application serves both its educational and practical purposes, as it is fully functional.
